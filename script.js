@@ -5,6 +5,6 @@ document.getElementById("contactForm").addEventListener("submit", function(event
         alert("All fields are required!");
         event.preventDefault();
     } else {
-        alert("Form submitted successfully!");
+        alert("Form submitted!");
     }
 });

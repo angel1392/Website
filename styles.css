@@ -1,12 +1,15 @@
+
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
 }
 
 nav {
-    background-color: #333;
+    background-color: #bd91ae;
     padding: 1em;
 }
 
